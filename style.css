@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Inter', sans-serif;
+  color: #19304A;
+  background-image: linear-gradient(60deg, #B5F0F0 0%, #A0BEF8 30%, #A0BEF8 70%, #B5F0F0 100%);
+  font-size: 20px;
+}
+
+label {
+  font-size: 36px;
+}
+
+input {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.passinfo {
+  font-size: 18px;
+  color: #19304A;
+}
+
+h3 {
+  padding: 24px;
+  text-decoration: underline 2px #19304A;
+  text-transform: uppercase;
+}
+
+li {
+  padding: 8px;
+}
+    
+span {
+  font-weight: bold;
+  /* color: rgb(0, 255, 234); */
+  text-decoration: underline dotted 3px #19304A;
+}
