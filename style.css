@@ -33,7 +33,7 @@ input {
 
 h3 {
   padding: 1.5em;
-  text-decoration: underline 2px #19304A;
+  text-decoration: underline 2px hsl(212, 50%, 20%);
   text-transform: uppercase;
 }
 
@@ -43,5 +43,5 @@ li {
     
 span {
   font-weight: bold;
-  text-decoration: underline dotted 1px #19304A;
+  text-decoration: underline dotted 1px hsl(212, 50%, 20%);
 }
